@@ -1,0 +1,69 @@
+h1 {
+	text-align: center;
+}
+
+.leftSide {
+	width: 24%;
+	height: 35px;
+	margin-left: 25%;
+	font-size: 20px;
+}
+
+.rightSide {
+	width: 24%;
+	height: 35px;
+	font-size: 20px;
+	margin-left: 2%;
+}
+
+.longSide {
+	width: 51%;
+	height: 35px;
+	margin-left: 25%;
+	font-size: 20px;
+}
+
+input {
+	margin-top: 10px;
+}
+
+#intextButton {
+	background-color: lightblue;
+	color: white;
+}
+
+#register {
+	background-color: lightblue;
+	color: white;
+}
+
+#signIn {
+	background-color: lightgreen;
+	color: white;
+}
+
+button {
+	border: 0;
+	border-radius: 6px;
+}
+
+p {
+	margin-right: 30%;
+}
+
+#checkText {
+	margin-left: 0;
+}
+
+#firstPart {
+	float:left;
+	margin-top: 10px;
+	margin-left: 22%;
+	margin-right: 10%;
+}
+
+#secondPart {
+	overflow: hidden;
+	margin-left: 20%;
+	margin-right: 25%:
+}
